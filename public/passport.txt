@@ -1,0 +1,19 @@
+C:\wamp64\www\restapi>php artisan passport:install
+Encryption keys already exist. Use the --force option to overwrite them.
+Personal access client created successfully.
+Client ID: 1
+Client secret: jIAprAmVYTMrBc87Fh99wh1hrjNCqAbAXdK3EJ77
+Password grant client created successfully.
+Client ID: 2
+Client secret: mPnZK2LO2DgJqD8jhjyyuu4V4M5YpdfIUGjAcdR4
+
+C:\wamp64\www\restapi>php artisan passport:install --force
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 3
+Client secret: 8Uqb1K76IrxtJttkyHd6R6RkdbNGQLwqwR9H3tDz
+Password grant client created successfully.
+Client ID: 4
+Client secret: oRKzPucyZEuX4gq92T84M9Rq3yMWr7Nok0P3HBQP
+                      php artisan passport:install --force
+C:\wamp64\www\restapi>php artisan passport:install --force
